@@ -1,7 +1,7 @@
 ### What it dew, world!
 
 
-This repository is meant to provide an example for **forking** a repository on GitHub.
+This is the story of (2) brothers from different mothers. They day they met, was it fate neigh, it was destiny. As complete opposites the blond hair, green-eyed slim was intrigued by the two boys, brown hair down to the ground, brown eyed and both black as an ace of spades. Now Slim at this point sided with Bananas nemisis and older brother, Christina.
 
 Creating a **fork** is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
